@@ -1,11 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A personal ruby on rails project for awetists to rate and find awetistic friendly services
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby version:
+    ruby 3.1.3p185 (2022-11-24 revision 1a6b16756e) [x86_64-linux]
 
 * System dependencies
 
